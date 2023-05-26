@@ -1,0 +1,7 @@
+.bagg{
+    background-image: url(assets/technology/background-technology-desktop.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+  background-attachment: fixed;
+}

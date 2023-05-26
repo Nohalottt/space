@@ -1,0 +1,44 @@
+.bg{
+    background-image: url(assets/destination/background-destination-desktop.jpg);
+    color: white;
+}
+.o{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.ti{
+    margin-left: 10%; 
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.cont{
+    color: white;
+    /* display: flex; */
+    
+    transform: translateY(-153%);
+    margin-left: 50%;
+   
+}
+.cont > .para{
+    margin-left: 10%;
+}
+.titre{
+   
+    transform: translateX(100%);
+    /* transform: translateX(900%); */
+}
+.t1{
+   padding-right: 50%;
+    
+}
+.on{
+    display: flex;
+    text-transform: uppercase;
+}
+.on > div{
+    margin-right: 30%;
+  
+}
+.up{
+    text-transform: uppercase;
+}
